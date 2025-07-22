@@ -1,0 +1,1 @@
+Requires https://github.com/marando/pycatfd for face cropping
